@@ -1,0 +1,15 @@
+# API keys and secrets
+ENTSOE_API_Token.txt
+.env
+*.key
+*.pem
+
+# IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
